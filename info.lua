@@ -11,14 +11,14 @@ medium_name = "Drunken LFO"
 -- Max 10 chars
 short_name = "DrunkenLFO"
 
-product_id = "org.meromorph.drunkenlfo"
+product_id = "org.porternet.drunkenlfo"
 manufacturer = "meromorph"
-version_number = "1.1.0"
+version_number = "1.1.0d1"
 device_type = "creative_fx"
 supports_patches = false
 accepts_notes = false
 auto_create_track = false
 auto_create_note_lane = false
-supports_performance_automation = true
+supports_performance_automation = false
 device_height_ru = 1
 automation_highlight_color = {r = 60, g = 255, b = 2}
